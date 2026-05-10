@@ -6,8 +6,8 @@ fn main() {
     let mut distance:f32;
     let mut modulo:f32;
 
-    for y in -15..=15 {
-        for x in -30..=30 {
+    for y in -17..=17 {
+        for x in -34..=34 {
             distance = (x * x + y * y) as f32;
             modulo = distance%thickness;
 
