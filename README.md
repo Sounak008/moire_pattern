@@ -6,6 +6,9 @@ A Rust program that generates [Moiré patterns](https://en.wikipedia.org/wiki/Mo
 
 This project generates Moiré patterns using Rust. It overlays repeating grids with slight offsets to create cool interference effects, and uses randomness using the rand crate to keep things interesting.
 
+https://github.com/user-attachments/assets/959dc914-ff8e-466f-a2f5-62dd4cb138fb
+
+
 ## Prerequisites
 
 - [Rust](https://www.rust-lang.org/tools/install) (edition 2024)
